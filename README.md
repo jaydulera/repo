@@ -8,3 +8,6 @@ https://github.com/crystal-community/crystal-ann
 https://hacktoberfestswaglist.com/
 # Freecodecamp:
 https://github.com/freeCodeCamp/how-to-contribute-to-open-source
+
+Beginners only:
+https://github.com/pr4shan7/beginners-only
